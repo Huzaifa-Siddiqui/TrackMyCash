@@ -1,0 +1,32 @@
+/* Button styling */
+.ant-btn {
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-weight: 500;
+    font-size: 16px;
+    text-transform: uppercase;
+  }
+  
+  /* Hover effect for buttons */
+  .ant-btn-primary:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+    border-color: rgba(0, 0, 0, 0.1);
+    transform: translateY(-2px);
+    transition: transform 0.3s ease;
+  }
+  
+  /* Title styling */
+  .ant-typography {
+    font-family: "Roboto", sans-serif;
+    letter-spacing: 0.5px;
+    color: #333;
+  }
+  
+  /* Text for financial details */
+  .ant-typography {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 1.6rem;
+    color: #333;
+  }
+  

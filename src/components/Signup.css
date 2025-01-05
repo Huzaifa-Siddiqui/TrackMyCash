@@ -1,0 +1,87 @@
+.sign-up-sign-in-wrapper {
+    max-width: 450px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .auth-container {
+    text-align: center;
+  }
+  
+  .auth-header {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .brand-name {
+    color: #007bff;
+  }
+  
+  .auth-form {
+    margin-top: 2rem;
+  }
+  
+  .input-wrapper {
+    margin-bottom: 1.2rem;
+    text-align: left;
+  }
+  
+  .input-wrapper label {
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+  
+  .input-wrapper input {
+    width: 100%;
+    padding: 0.8rem;
+    margin-top: 0.4rem;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
+  .auth-button {
+    width: 100%;
+    padding: 1rem;
+    margin-top: 1.2rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .auth-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .auth-button-google {
+    background-color: #db4437;
+  }
+  
+  .auth-button-google:hover {
+    background-color: #c1351d;
+  }
+  
+  .auth-divider {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+    color: #6c757d;
+  }
+  
+  .toggle-form {
+    font-size: 0.9rem;
+    color: #007bff;
+    cursor: pointer;
+    margin-top: 1rem;
+  }
+  
+  .toggle-form:hover {
+    text-decoration: underline;
+  }
+  
